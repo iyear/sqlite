@@ -1,3 +1,6 @@
+Because the original library has been archived, I made this library to upgrade SQLite to the latest version.
+
+-------------
 
 This is a fork of [github.com/go-gorm/sqlite](github.com/go-gorm/sqlite)
 
